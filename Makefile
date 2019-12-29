@@ -1,10 +1,10 @@
 all: plot
 
-gen_points: gen_points.cpp
-	g++ gen_points.cpp -o gen_points
+gpoints: gpoints.cpp
+	g++ gpoints.cpp -o gpoints
 
-points: gen_points
-	./gen_points
+points: gpoints
+	./gpoints
 
 plot: plot.py points
 	python plot.py
