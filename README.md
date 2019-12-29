@@ -14,3 +14,5 @@
 * `make`
  
 * `./output`
+
+There you have it, you just completed a HOW-TO for running a makefile :P
