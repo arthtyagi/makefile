@@ -5,4 +5,12 @@
  
  *fork this repo first* using :
  
- `git clone github.com/arthtyagi/makefile/`
+* `git clone github.com/arthtyagi/makefile/`
+ 
+ After you've completed the above step :
+ 
+* `cd makefile`
+ 
+* `make`
+ 
+* `./output`
